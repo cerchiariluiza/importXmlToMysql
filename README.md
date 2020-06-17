@@ -7,7 +7,7 @@ crie a table:
 
 create table processo (
 nome varchar(30),
-marca varchar(40)
+marca varchar(40),
 dt_deposito date, 
 dt_concessao date,
 vigencia date,
